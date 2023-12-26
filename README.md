@@ -11,3 +11,6 @@ The units of height and weight are divided like cm, mm, m and g, kg, respectivel
 History part was quite difficult because from bmiRoutes was not directly sending the document JSON format file to the html file
 So I have made it by button clicking using the method POST
 Used for html Bootstrap
+
+"test": "echo \"Error: no test specified\" && exit 1", "start": "nodemon route.js"
+You can start by nodemon route.js or node route.js
